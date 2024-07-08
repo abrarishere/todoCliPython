@@ -1,0 +1,122 @@
+[
+  {
+    "task": "Study HTML & CSS basics",
+    "status": "Pending",
+    "date": "2024-07-08"
+  },
+  {
+    "task": "Practice responsive design",
+    "status": "Pending",
+    "date": "2024-07-09"
+  },
+  {
+    "task": "Learn JavaScript ES6 features",
+    "status": "Pending",
+    "date": "2024-07-10"
+  },
+  {
+    "task": "Build portfolio wireframes",
+    "status": "Pending",
+    "date": "2024-07-11"
+  },
+  {
+    "task": "Implement Bootstrap framework",
+    "status": "Pending",
+    "date": "2024-07-12"
+  },
+  {
+    "task": "Explore DOM manipulation",
+    "status": "Pending",
+    "date": "2024-07-13"
+  },
+  {
+    "task": "CSS animations practice",
+    "status": "Pending",
+    "date": "2024-07-14"
+  },
+  {
+    "task": "Work on portfolio projects",
+    "status": "Pending",
+    "date": "2024-07-15"
+  },
+  {
+    "task": "Review JavaScript closures",
+    "status": "Pending",
+    "date": "2024-07-16"
+  },
+  {
+    "task": "Study CSS preprocessors",
+    "status": "Pending",
+    "date": "2024-07-17"
+  },
+  {
+    "task": "Build interactive JavaScript components",
+    "status": "Pending",
+    "date": "2024-07-18"
+  },
+  {
+    "task": "Optimize CSS for performance",
+    "status": "Pending",
+    "date": "2024-07-19"
+  },
+  {
+    "task": "Implement accessibility in HTML/CSS",
+    "status": "Pending",
+    "date": "2024-07-20"
+  },
+  {
+    "task": "Practice JavaScript async/await",
+    "status": "Pending",
+    "date": "2024-07-21"
+  },
+  {
+    "task": "Design and code portfolio layouts",
+    "status": "Pending",
+    "date": "2024-07-22"
+  },
+  {
+    "task": "Explore JavaScript libraries (optional)",
+    "status": "Pending",
+    "date": "2024-07-23"
+  },
+  {
+    "task": "Implement CSS methodologies (BEM)",
+    "status": "Pending",
+    "date": "2024-07-24"
+  },
+  {
+    "task": "Practice JavaScript frameworks (optional)",
+    "status": "Pending",
+    "date": "2024-07-25"
+  },
+  {
+    "task": "Build portfolio interactive components",
+    "status": "Pending",
+    "date": "2024-07-26"
+  },
+  {
+    "task": "Prepare portfolio for deployment",
+    "status": "Pending",
+    "date": "2024-07-27"
+  },
+  {
+    "task": "Review and revise HTML/CSS concepts",
+    "status": "Pending",
+    "date": "2024-07-28"
+  },
+  {
+    "task": "Finalize JavaScript projects",
+    "status": "Pending",
+    "date": "2024-07-29"
+  },
+  {
+    "task": "Prepare for portfolio presentation",
+    "status": "Pending",
+    "date": "2024-07-30"
+  },
+  {
+    "task": "Final review and reflection",
+    "status": "Pending",
+    "date": "2024-07-31"
+  }
+]
