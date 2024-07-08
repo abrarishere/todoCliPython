@@ -1,3 +1,4 @@
+import os
 import sqlite3
 from datetime import date, datetime
 
@@ -6,8 +7,12 @@ from rich import box
 from rich.console import Console
 from rich.table import Table
 
+# Get the current directory where the script is located
+current_dir = os.path.dirname(os.path.abspath(__file__))
+db_path = os.path.join(current_dir, 'todo.db')
+
 # Connecting to SQLite database
-conn = sqlite3.connect('todo.db')
+conn = sqlite3.connect(db_path)
 c = conn.cursor()
 
 # Check if 'tasks' table exists, and if not, create it
