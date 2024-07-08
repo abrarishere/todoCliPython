@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: todo
+Version: 1.0.0
+Summary: A simple CLI task management tool
+Home-page: https://github.com/abrarishere/todoCliPython
+Author: Muhammad Abrar
+Author-email: legendabrar44@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: click
+Requires-Dist: rich
+
+
 # todoCliPython
 
 A simple command-line interface (CLI) application for managing TODO tasks using Python.
@@ -11,26 +25,20 @@ A simple command-line interface (CLI) application for managing TODO tasks using 
 
 ## Installation
 
-### From Git
-
-1. Install directly using pip:
-   ```
-   pip install git+https://github.com/abrarishere/todoCliPython.git
-   ```
-
-### From Source
-
 1. Clone the repository:
+
    ```
    git clone https://github.com/abrarishere/todoCliPython.git
    ```
 
 2. Navigate into the project directory:
+
    ```
    cd todoCliPython
    ```
 
 3. Install dependencies (if any):
+
    ```
    pip install -r requirements.txt
    ```
@@ -38,16 +46,19 @@ A simple command-line interface (CLI) application for managing TODO tasks using 
 ## Usage
 
 - To add a task:
+
   ```
   python todo.py add "Task description"
   ```
 
 - To list all tasks:
+
   ```
   python todo.py list
   ```
 
 - To mark a task as complete:
+
   ```
   python todo.py complete <task_id>
   ```
